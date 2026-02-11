@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Tomás</h1>
+<img width="1315" height="623" alt="image" src="https://github.com/user-attachments/assets/d76519a5-07ec-46cf-9e29-150e70b8b3af" /><h1 align="center">👋 Hola, soy Tomás</h1>
 
 <svg width="100%" height="120">
   <text x="50%" y="50%" text-anchor="middle" fill="#00ff9c" font-size="30" font-family="Courier New">
@@ -24,6 +24,6 @@
 ---
 
 ## 🌐 Encuéntrame
-[GitHub]([https://github.com/TU_USUARIO](https://github.com/Tomaxus))  
+[GitHub](https://github.com/Tomaxus)  
 [LinkedIn](https://www.linkedin.com/in/tomas-uribe-sanchez-614229293/)
 
