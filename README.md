@@ -24,6 +24,6 @@
 ---
 
 ## 🌐 Encuéntrame
-[GitHub](https://github.com/TU_USUARIO)  
+[GitHub]([https://github.com/TU_USUARIO](https://github.com/Tomaxus))  
 [LinkedIn](https://www.linkedin.com/in/tomas-uribe-sanchez-614229293/)
 
