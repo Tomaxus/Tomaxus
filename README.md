@@ -25,5 +25,5 @@
 
 ## 🌐 Encuéntrame
 [GitHub](https://github.com/TU_USUARIO)  
-[LinkedIn](https://linkedin.com/in/TU_LINKEDIN)
+[LinkedIn](www.linkedin.com/in/tomas-uribe-sanchez-614229293)
 
