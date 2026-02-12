@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=Hello,%20I'm%20Tomás%20🐧&fontSize=35&fontColor=ffffff&animation=twinkling" alt="Neon Title" />
+--
+
 ### 🎓 Software Engineering Student 
 
 ---
