@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=Hello,%20I'm%20Tomás%20🐧&fontSize=35&fontColor=white&animation=twinkling" alt="Neon Title" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=Hello,%20I'm%20Tomás%20🐧&fontSize=35&fontColor=000&animation=twinkling" alt="Neon Title" />
 
 ### 🎓 Software Engineering Student 
 
