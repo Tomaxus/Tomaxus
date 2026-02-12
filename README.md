@@ -22,10 +22,13 @@
 
 ---
 
-### 💬 System Message
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=5000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=The+quieter+you+become%2C+the+more+you+are+able+to+hear..." alt="Mantra" />
 </p>
+
+
 
 ---
 ### 🌐 Social
